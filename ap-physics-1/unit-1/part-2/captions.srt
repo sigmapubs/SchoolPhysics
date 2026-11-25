@@ -1,0 +1,587 @@
+1
+00:00:00,000 --> 00:00:02,240
+Welcome to School Physics, Explained.
+
+2
+00:00:02,690 --> 00:00:09,406
+This is AP Physics 1, Unit 1, Kinematics,
+Part 2. In this video, we'll cover four
+
+3
+00:00:09,406 --> 00:00:09,986
+topics.
+
+4
+00:00:10,436 --> 00:00:11,801
+Free Fall Problems.
+
+5
+00:00:12,251 --> 00:00:13,766
+Vectors and Components.
+
+6
+00:00:14,216 --> 00:00:15,517
+Projectile Motion.
+
+7
+00:00:15,967 --> 00:00:17,226
+Relative Motion.
+
+8
+00:00:17,676 --> 00:00:18,892
+Let's get started.
+
+9
+00:00:20,533 --> 00:00:23,840
+Free fall problems show up all over the A
+P exam.
+
+10
+00:00:24,290 --> 00:00:29,369
+They're just constant acceleration
+problems, with the acceleration equal to
+
+11
+00:00:29,369 --> 00:00:30,114
+negative g.
+
+12
+00:00:31,264 --> 00:00:33,717
+Set up carefully. Choose up as positive.
+
+13
+00:00:34,167 --> 00:00:39,719
+Then a is negative nine point eight meters
+per second squared, for the whole flight:
+
+14
+00:00:39,719 --> 00:00:42,231
+going up, at the top, and coming down.
+
+15
+00:00:43,381 --> 00:00:48,727
+Example: a ball is thrown straight up from
+the ground at fifteen meters per second.
+
+16
+00:00:48,727 --> 00:00:50,016
+How high does it go?
+
+17
+00:00:50,466 --> 00:00:56,414
+At the top, v is zero. Use v squared
+equals v naught squared, plus two a delta
+
+18
+00:00:56,414 --> 00:00:56,567
+y.
+
+19
+00:00:57,017 --> 00:01:03,392
+Zero equals two hundred twenty five, minus
+nineteen point six delta y. So the maximum
+
+20
+00:01:03,392 --> 00:01:06,468
+height is about eleven point five meters.
+
+21
+00:01:07,618 --> 00:01:09,303
+How long is the ball in the air?
+
+22
+00:01:09,753 --> 00:01:13,316
+It lands back at its starting height, so
+delta y is zero.
+
+23
+00:01:13,766 --> 00:01:20,411
+Zero equals fifteen t, minus four point
+nine t squared. So t is fifteen over four
+
+24
+00:01:20,411 --> 00:01:23,856
+point nine, about three point one seconds.
+
+25
+00:01:25,006 --> 00:01:26,265
+Notice the symmetry.
+
+26
+00:01:26,715 --> 00:01:31,643
+The trip up takes as long as the trip
+down, about one point five seconds each.
+
+27
+00:01:32,093 --> 00:01:36,830
+And the ball lands with the same speed it
+was thrown with, fifteen meters per
+
+28
+00:01:36,830 --> 00:01:38,429
+second, but pointing down.
+
+29
+00:01:39,579 --> 00:01:40,880
+Here's a common trap.
+
+30
+00:01:41,330 --> 00:01:47,190
+At the top, the velocity is zero, but the
+acceleration is not. It's still nine point
+
+31
+00:01:47,190 --> 00:01:50,120
+eight meters per second squared, downward.
+
+32
+00:01:51,270 --> 00:01:52,742
+Now try one yourself.
+
+33
+00:01:53,192 --> 00:01:58,804
+A stone is dropped from a bridge, and hits
+the water two point five seconds later.
+
+34
+00:01:58,804 --> 00:02:04,280
+How high is the bridge, and how fast is
+the stone moving at impact? Use g equals
+
+35
+00:02:04,280 --> 00:02:06,333
+ten meters per second squared.
+
+36
+00:02:06,783 --> 00:02:08,063
+Pause the video now.
+
+37
+00:02:08,513 --> 00:02:13,935
+The height is one half, times ten, times
+two point five squared, which is about
+
+38
+00:02:13,935 --> 00:02:19,288
+thirty one meters. The speed is ten times
+two point five, which is twenty five
+
+39
+00:02:19,288 --> 00:02:20,524
+meters per second.
+
+40
+00:02:20,824 --> 00:02:25,411
+So far, everything moved along a line. Now
+we go to two dimensions.
+
+41
+00:02:25,861 --> 00:02:29,871
+To do that, we need one tool: breaking a
+vector into components.
+
+42
+00:02:31,021 --> 00:02:34,861
+A vector has a size and a direction. We
+draw it as an arrow.
+
+43
+00:02:35,311 --> 00:02:39,948
+Here's a velocity of ten meters per
+second, at thirty degrees above the
+
+44
+00:02:39,948 --> 00:02:40,666
+horizontal.
+
+45
+00:02:41,816 --> 00:02:47,433
+Any vector can be replaced by two
+perpendicular pieces: one along x, and one
+
+46
+00:02:47,433 --> 00:02:48,024
+along y.
+
+47
+00:02:48,474 --> 00:02:52,549
+Drop a line straight down from the tip.
+That makes a right triangle.
+
+48
+00:02:52,999 --> 00:02:58,417
+The horizontal side is the x component.
+The vertical side is the y component.
+
+49
+00:02:59,567 --> 00:03:01,103
+Use trig on the triangle.
+
+50
+00:03:01,553 --> 00:03:07,435
+The x component is the magnitude times
+cosine of the angle. The y component is
+
+51
+00:03:07,435 --> 00:03:10,300
+the magnitude times sine of the angle.
+
+52
+00:03:10,750 --> 00:03:17,424
+So v x is ten cosine thirty, about eight
+point seven meters per second. And v y is
+
+53
+00:03:17,424 --> 00:03:21,331
+ten sine thirty, exactly five meters per
+second.
+
+54
+00:03:22,481 --> 00:03:26,492
+You can also go backwards. Given the
+components, find the vector.
+
+55
+00:03:26,942 --> 00:03:32,766
+The magnitude comes from the Pythagorean
+theorem: the square root of v x squared
+
+56
+00:03:32,766 --> 00:03:34,003
+plus v y squared.
+
+57
+00:03:34,453 --> 00:03:38,485
+And the angle is the inverse tangent of v
+y over v x.
+
+58
+00:03:39,635 --> 00:03:41,875
+Components make adding vectors easy.
+
+59
+00:03:42,325 --> 00:03:46,208
+Just add the x parts together, and add the
+y parts together.
+
+60
+00:03:46,658 --> 00:03:51,010
+For example, three, four, plus one,
+negative two, gives four, two.
+
+61
+00:03:52,160 --> 00:03:53,632
+Now try one yourself.
+
+62
+00:03:54,082 --> 00:04:00,267
+A force of twenty newtons points at sixty
+degrees above the horizontal. Find its x
+
+63
+00:04:00,267 --> 00:04:01,549
+and y components.
+
+64
+00:04:01,999 --> 00:04:03,279
+Pause the video now.
+
+65
+00:04:03,729 --> 00:04:10,251
+F x is twenty cosine sixty, which is ten
+newtons. F y is twenty sine sixty, about
+
+66
+00:04:10,251 --> 00:04:12,667
+seventeen point three newtons.
+
+67
+00:04:12,967 --> 00:04:15,740
+Throw a ball sideways, and it follows a
+curve.
+
+68
+00:04:16,190 --> 00:04:21,222
+That curve looks complicated, but it's
+really two simple motions happening at the
+
+69
+00:04:21,222 --> 00:04:21,844
+same time.
+
+70
+00:04:22,994 --> 00:04:27,580
+Here's the key idea. Horizontal and
+vertical motion are independent.
+
+71
+00:04:28,030 --> 00:04:32,894
+Watch two balls. One is dropped, and one
+is launched sideways at the same moment.
+
+72
+00:04:33,344 --> 00:04:37,974
+They hit the ground at the same time.
+Gravity pulls both down the same way.
+
+73
+00:04:39,124 --> 00:04:40,553
+So we split the motion.
+
+74
+00:04:41,003 --> 00:04:46,486
+Horizontally, there is no acceleration, so
+the velocity v x stays constant.
+
+75
+00:04:46,936 --> 00:04:51,373
+Vertically, the acceleration is negative
+g, just like free fall.
+
+76
+00:04:52,523 --> 00:04:57,930
+Example: a ball rolls off a table one
+point two meters high, at three meters per
+
+77
+00:04:57,930 --> 00:04:59,755
+second. Where does it land?
+
+78
+00:05:00,205 --> 00:05:06,432
+First, the vertical part gives the time.
+One point two equals four point nine t
+
+79
+00:05:06,432 --> 00:05:10,530
+squared, so t is about zero point four
+nine seconds.
+
+80
+00:05:10,980 --> 00:05:16,845
+Then the horizontal part gives the
+distance. x equals three times zero point
+
+81
+00:05:16,845 --> 00:05:19,855
+four nine, about one point five meters.
+
+82
+00:05:21,005 --> 00:05:25,549
+Now a launch at an angle. Twenty meters
+per second, at thirty degrees.
+
+83
+00:05:25,999 --> 00:05:31,947
+Split the launch velocity. v x is about
+seventeen point three, and v y is ten
+
+84
+00:05:31,947 --> 00:05:33,338
+meters per second.
+
+85
+00:05:33,788 --> 00:05:39,677
+At the peak, v y is zero, but v x is still
+seventeen point three. The ball never
+
+86
+00:05:39,677 --> 00:05:41,297
+stops moving sideways.
+
+87
+00:05:42,447 --> 00:05:48,220
+For level ground, the time of flight is
+two v y over g, about two point oh four
+
+88
+00:05:48,220 --> 00:05:48,804
+seconds.
+
+89
+00:05:49,254 --> 00:05:54,865
+So the range is seventeen point three
+times two point oh four, about thirty five
+
+90
+00:05:54,865 --> 00:05:55,356
+meters.
+
+91
+00:05:56,506 --> 00:05:57,978
+Now try one yourself.
+
+92
+00:05:58,428 --> 00:06:03,796
+A stone is thrown horizontally at eight
+meters per second from a cliff twenty
+
+93
+00:06:03,796 --> 00:06:09,582
+meters high. Use g equals ten meters per
+second squared. How far from the base does
+
+94
+00:06:09,582 --> 00:06:10,140
+it land?
+
+95
+00:06:10,590 --> 00:06:11,870
+Pause the video now.
+
+96
+00:06:12,320 --> 00:06:18,047
+From twenty equals five t squared, t is
+two seconds. Then x is eight times two,
+
+97
+00:06:18,047 --> 00:06:19,786
+which is sixteen meters.
+
+98
+00:06:20,086 --> 00:06:24,673
+You're on a train, and you toss a ball
+straight up. It lands back in your hand.
+
+99
+00:06:25,123 --> 00:06:30,221
+But someone on the platform sees the ball
+fly forward in a curve. Who is right?
+
+100
+00:06:31,371 --> 00:06:35,672
+Both are. Velocity depends on the
+reference frame, the point of view you
+
+101
+00:06:35,672 --> 00:06:36,449
+measure from.
+
+102
+00:06:36,899 --> 00:06:42,120
+On the train, the ball moves only up and
+down. From the platform, it also moves
+
+103
+00:06:42,120 --> 00:06:43,640
+forward with the train.
+
+104
+00:06:44,790 --> 00:06:46,987
+Here's the rule for adding velocities.
+
+105
+00:06:47,437 --> 00:06:53,379
+The velocity of A relative to C equals the
+velocity of A relative to B, plus the
+
+106
+00:06:53,379 --> 00:06:55,459
+velocity of B relative to C.
+
+107
+00:06:55,909 --> 00:06:59,941
+Read the subscripts like a chain: the
+inner letters match and cancel.
+
+108
+00:07:01,091 --> 00:07:06,159
+Example: you walk forward at one point
+five meters per second inside a train
+
+109
+00:07:06,159 --> 00:07:08,493
+moving at twenty meters per second.
+
+110
+00:07:08,943 --> 00:07:13,658
+Relative to the ground, you move at twenty
+one point five meters per second.
+
+111
+00:07:14,108 --> 00:07:19,000
+Walk toward the back instead, and it's
+twenty minus one point five, which is
+
+112
+00:07:19,000 --> 00:07:21,447
+eighteen point five meters per second.
+
+113
+00:07:22,597 --> 00:07:25,135
+It works in two dimensions too, with
+vectors.
+
+114
+00:07:25,585 --> 00:07:30,987
+A boat heads straight across a river at
+four meters per second. The current flows
+
+115
+00:07:30,987 --> 00:07:33,521
+downstream at three meters per second.
+
+116
+00:07:33,971 --> 00:07:39,124
+Add them as vectors. The speed relative to
+the shore is the square root of four
+
+117
+00:07:39,124 --> 00:07:43,038
+squared plus three squared, which is five
+meters per second.
+
+118
+00:07:43,488 --> 00:07:48,987
+The boat drifts downstream as it crosses,
+at an angle of about thirty seven degrees
+
+119
+00:07:48,987 --> 00:07:50,379
+from straight across.
+
+120
+00:07:51,529 --> 00:07:53,001
+Now try one yourself.
+
+121
+00:07:53,451 --> 00:07:59,109
+A plane flies north at two hundred forty
+meters per second relative to the air. A
+
+122
+00:07:59,109 --> 00:08:04,697
+wind blows east at seventy meters per
+second. What is the plane's speed relative
+
+123
+00:08:04,697 --> 00:08:05,675
+to the ground?
+
+124
+00:08:06,125 --> 00:08:07,405
+Pause the video now.
+
+125
+00:08:07,855 --> 00:08:12,477
+The square root of two hundred forty
+squared plus seventy squared is two
+
+126
+00:08:12,477 --> 00:08:14,532
+hundred fifty meters per second.
+
+127
+00:08:14,982 --> 00:08:20,401
+That's the end of Unit 1. Next, we start
+Unit 2: forces and Newton's laws.
+
+128
+00:08:21,551 --> 00:08:26,385
+If this lesson helped, subscribe to School
+Physics, Explained, and tap the bell so
+
+129
+00:08:26,385 --> 00:08:28,036
+you don't miss the next one.
+

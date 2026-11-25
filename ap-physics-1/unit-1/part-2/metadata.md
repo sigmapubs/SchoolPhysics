@@ -1,0 +1,61 @@
+# Upload details: ap1_u1_p2
+
+Title: Free Fall, Vectors, Projectile Motion and Relative Motion | AP Physics 1 Unit 1, Part 2
+Playlists: AP Physics 1 (Full Course); AP Physics 1, Unit 1: Kinematics
+Visibility: Public
+Audience: Not made for kids
+Category: Education
+Captions: ap1_u1_p2.srt (English)
+Thumbnail: ap1_u1_p2_thumbnail.png
+End screen: Subscribe element on the red circle slot, video element on the Watch next slot (AP Physics 1, Unit 2: Force and Translational Dynamics), for the end card.
+
+Description (also in description.txt):
+
+AP Physics 1 Unit 1 continued: free fall problems and the up-down symmetry, vector components, projectile motion (off a table and launched at an angle), and relative motion between reference frames. AP-style practice in every part.
+
+Course: AP Physics 1 · Unit 1: Kinematics · Part 2 of 2
+Previous: Displacement, Velocity, Acceleration and Motion Graphs (Unit 1, Part 1)
+Next: AP Physics 1, Unit 2: Force and Translational Dynamics
+
+0:00 Introduction
+0:21 Free Fall Problems
+0:31 Choosing up as positive
+0:43 Maximum height
+1:08 Time in the air
+1:25 Symmetry
+1:40 Common trap
+1:51 Your turn
+2:21 Vectors and Components
+2:31 Drawing a vector
+2:42 x and y components
+3:00 Using trig
+3:22 Components to vector
+3:40 Adding vectors
+3:52 Your turn
+4:13 Projectile Motion
+4:23 Independence
+4:39 Splitting the motion
+4:53 Off the table
+5:21 Launch at an angle
+5:42 Time of flight and range
+5:57 Your turn
+6:20 Relative Motion
+6:31 Reference frames
+6:45 Adding velocities
+7:01 Walking on a train
+7:23 Crossing a river
+7:52 Your turn
+
+AP Physics 1, the complete course (8 units, full syllabus):
+▶ Unit 1: Kinematics  (you are here)
+• Unit 2: Force and Translational Dynamics
+• Unit 3: Work, Energy and Power
+• Unit 4: Linear Momentum
+• Unit 5: Torque and Rotational Dynamics
+• Unit 6: Energy and Momentum of Rotating Systems
+• Unit 7: Oscillations
+• Unit 8: Fluids
+Follow the whole course in order in the "AP Physics 1 (Full Course)" playlist.
+
+School Physics, Explained covers the full physics syllabus: High School Physics, AP Physics 1, AP Physics 2 and AP Physics C.
+#physics #apphysics #projectilemotion
