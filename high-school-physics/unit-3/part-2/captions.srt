@@ -1,0 +1,788 @@
+1
+00:00:00,000 --> 00:00:02,240
+Welcome to School Physics, Explained.
+
+2
+00:00:02,690 --> 00:00:08,369
+This is High School Physics, Unit 3,
+Forces and Newton's Laws, Part 2. In this
+
+3
+00:00:08,369 --> 00:00:10,626
+video, we'll cover five topics.
+
+4
+00:00:11,076 --> 00:00:12,548
+Free Body Diagrams.
+
+5
+00:00:12,998 --> 00:00:15,131
+Weight, Normal Force and Apparent Weight.
+
+6
+00:00:15,581 --> 00:00:16,392
+Friction.
+
+7
+00:00:16,842 --> 00:00:18,058
+Inclined Planes.
+
+8
+00:00:18,508 --> 00:00:20,919
+Tension, Pulleys and Connected Objects.
+
+9
+00:00:21,369 --> 00:00:22,585
+Let's get started.
+
+10
+00:00:24,233 --> 00:00:28,393
+Real situations are messy: ropes, ramps,
+people, tables.
+
+11
+00:00:28,843 --> 00:00:34,582
+A free body diagram strips all that away,
+and shows only the forces on one object.
+
+12
+00:00:35,732 --> 00:00:37,076
+Here's how to draw one.
+
+13
+00:00:37,526 --> 00:00:41,643
+First, pick one object and draw it as a
+dot or a simple box.
+
+14
+00:00:42,093 --> 00:00:47,289
+Second, draw an arrow for every force
+acting on it, starting from the object and
+
+15
+00:00:47,289 --> 00:00:49,368
+pointing the way the force acts.
+
+16
+00:00:49,818 --> 00:00:53,146
+Third, label each arrow, and make bigger
+forces longer.
+
+17
+00:00:54,296 --> 00:00:59,881
+Only include forces acting on the object,
+not forces the object exerts on other
+
+18
+00:00:59,881 --> 00:01:00,376
+things.
+
+19
+00:01:00,826 --> 00:01:06,346
+And every force needs a source. Gravity
+comes from the Earth. Contact forces come
+
+20
+00:01:06,346 --> 00:01:08,527
+from things touching the object.
+
+21
+00:01:09,677 --> 00:01:12,237
+Example one: a lamp hanging from a cord.
+
+22
+00:01:12,687 --> 00:01:16,484
+Gravity pulls the lamp down. The cord
+pulls it up with tension.
+
+23
+00:01:16,934 --> 00:01:20,924
+The lamp isn't accelerating, so the two
+arrows are the same length.
+
+24
+00:01:22,074 --> 00:01:25,594
+Example two: you pull a box to the right
+across the floor.
+
+25
+00:01:26,044 --> 00:01:30,161
+Gravity points down, and the normal force
+from the floor points up.
+
+26
+00:01:30,611 --> 00:01:34,558
+Your pull points right, and friction
+points left, against the sliding.
+
+27
+00:01:35,008 --> 00:01:39,040
+If the box speeds up, the pull arrow is
+longer than the friction arrow.
+
+28
+00:01:40,190 --> 00:01:44,158
+Once the diagram is drawn, add the forces
+in each direction.
+
+29
+00:01:44,608 --> 00:01:49,303
+Say the pull is fifty newtons, and
+friction is thirty newtons. The net
+
+30
+00:01:49,303 --> 00:01:52,522
+horizontal force is twenty newtons to the
+right.
+
+31
+00:01:52,972 --> 00:01:58,187
+Up and down, the normal force and gravity
+cancel. So the box accelerates to the
+
+32
+00:01:58,187 --> 00:01:58,583
+right.
+
+33
+00:01:59,733 --> 00:02:01,205
+Now try one yourself.
+
+34
+00:02:01,655 --> 00:02:07,415
+A skydiver falls at a constant speed. Draw
+the free body diagram. What can you say
+
+35
+00:02:07,415 --> 00:02:08,610
+about the forces?
+
+36
+00:02:09,060 --> 00:02:10,340
+Pause the video now.
+
+37
+00:02:10,790 --> 00:02:16,537
+There are two forces: gravity down, and
+air resistance up. Constant speed means
+
+38
+00:02:16,537 --> 00:02:20,539
+zero acceleration, so the two forces are
+equal in size.
+
+39
+00:02:20,839 --> 00:02:25,965
+Stand on a scale in an elevator. As the
+elevator starts going up, the reading
+
+40
+00:02:25,965 --> 00:02:26,364
+jumps.
+
+41
+00:02:26,814 --> 00:02:29,140
+Did you suddenly gain weight? Not at all.
+
+42
+00:02:30,290 --> 00:02:34,642
+Weight is the force of gravity on you. It
+equals your mass times g.
+
+43
+00:02:35,092 --> 00:02:40,558
+A sixty kilogram student has a weight of
+sixty times nine point eight, about five
+
+44
+00:02:40,558 --> 00:02:42,110
+hundred ninety newtons.
+
+45
+00:02:42,560 --> 00:02:47,830
+Mass is how much stuff you're made of, in
+kilograms. Weight is a force, in newtons.
+
+46
+00:02:48,980 --> 00:02:53,673
+When you stand on the floor, the floor
+pushes up on you. That's the normal force.
+
+47
+00:02:54,123 --> 00:02:58,624
+Normal means perpendicular. It always
+pushes straight out of the surface.
+
+48
+00:02:59,074 --> 00:03:04,088
+Standing still on level ground, the normal
+force exactly balances your weight.
+
+49
+00:03:05,238 --> 00:03:09,971
+A bathroom scale doesn't measure your
+weight directly. It measures the normal
+
+50
+00:03:09,971 --> 00:03:12,491
+force, how hard it has to push up on you.
+
+51
+00:03:12,941 --> 00:03:14,968
+We call that reading your apparent weight.
+
+52
+00:03:16,118 --> 00:03:21,302
+In an elevator speeding up upward at two
+meters per second squared, the net force
+
+53
+00:03:21,302 --> 00:03:22,198
+must point up.
+
+54
+00:03:22,648 --> 00:03:25,954
+So the normal force minus your weight
+equals m a.
+
+55
+00:03:26,404 --> 00:03:31,748
+The normal force is sixty times nine point
+eight plus two, which is about seven
+
+56
+00:03:31,748 --> 00:03:34,319
+hundred ten newtons. You feel heavier.
+
+57
+00:03:35,469 --> 00:03:40,763
+When the elevator accelerates downward at
+two meters per second squared, the normal
+
+58
+00:03:40,763 --> 00:03:41,656
+force shrinks.
+
+59
+00:03:42,106 --> 00:03:47,349
+It's sixty times nine point eight minus
+two, about four hundred seventy newtons.
+
+60
+00:03:47,349 --> 00:03:48,463
+You feel lighter.
+
+61
+00:03:48,913 --> 00:03:53,320
+And if the cable snapped, you'd fall
+together with the elevator. The normal
+
+62
+00:03:53,320 --> 00:03:56,081
+force would be zero, and you'd feel
+weightless.
+
+63
+00:03:57,231 --> 00:03:58,703
+Now try one yourself.
+
+64
+00:03:59,153 --> 00:04:05,245
+A fifty kilogram person stands on a scale
+in an elevator accelerating upward at one
+
+65
+00:04:05,245 --> 00:04:10,310
+meter per second squared. Use g equals
+ten. What does the scale read?
+
+66
+00:04:10,760 --> 00:04:12,040
+Pause the video now.
+
+67
+00:04:12,490 --> 00:04:18,144
+The normal force is fifty times ten plus
+one, which is five hundred fifty newtons.
+
+68
+00:04:18,444 --> 00:04:23,641
+Try to push a heavy couch. At first,
+nothing happens. Then suddenly it lurches
+
+69
+00:04:23,641 --> 00:04:26,572
+forward, and keeping it moving feels
+easier.
+
+70
+00:04:27,022 --> 00:04:29,433
+That's friction, and it comes in two
+kinds.
+
+71
+00:04:30,583 --> 00:04:35,319
+Friction acts along the surface between
+two objects, and it always opposes
+
+72
+00:04:35,319 --> 00:04:35,831
+sliding.
+
+73
+00:04:36,281 --> 00:04:40,142
+It comes from tiny bumps on the surfaces
+catching on each other.
+
+74
+00:04:41,292 --> 00:04:44,919
+When the object isn't sliding yet, we have
+static friction.
+
+75
+00:04:45,369 --> 00:04:50,804
+Static friction matches your push, up to a
+maximum. Push with fifty newtons, and it
+
+76
+00:04:50,804 --> 00:04:53,817
+pushes back with fifty. The couch stays
+still.
+
+77
+00:04:54,267 --> 00:05:00,122
+Its maximum value is mu s times the normal
+force, where mu s is the coefficient of
+
+78
+00:05:00,122 --> 00:05:01,264
+static friction.
+
+79
+00:05:02,414 --> 00:05:05,337
+Once the object slides, it's kinetic
+friction.
+
+80
+00:05:05,787 --> 00:05:11,143
+Kinetic friction equals mu k times the
+normal force, and it stays about the same
+
+81
+00:05:11,143 --> 00:05:12,080
+while sliding.
+
+82
+00:05:12,530 --> 00:05:18,043
+Mu k is usually smaller than mu s. That's
+why it's easier to keep something moving
+
+83
+00:05:18,043 --> 00:05:19,186
+than to start it.
+
+84
+00:05:20,336 --> 00:05:26,837
+Here's an example. A forty kilogram crate
+sits on a floor where mu s is zero point
+
+85
+00:05:26,837 --> 00:05:30,960
+five and mu k is zero point three. Use g
+equals ten.
+
+86
+00:05:31,410 --> 00:05:34,887
+The normal force equals the weight, four
+hundred newtons.
+
+87
+00:05:35,337 --> 00:05:40,573
+To start it moving, you need more than
+zero point five times four hundred, which
+
+88
+00:05:40,573 --> 00:05:42,079
+is two hundred newtons.
+
+89
+00:05:42,529 --> 00:05:47,921
+Once it slides, kinetic friction is zero
+point three times four hundred, which is
+
+90
+00:05:47,921 --> 00:05:49,718
+one hundred twenty newtons.
+
+91
+00:05:50,868 --> 00:05:55,945
+Notice that friction depends on the normal
+force, not on the area of contact.
+
+92
+00:05:56,395 --> 00:06:01,929
+Press down harder, and friction grows.
+Rough surfaces, like rubber on concrete,
+
+93
+00:06:01,929 --> 00:06:04,801
+have big coefficients. Ice has tiny ones.
+
+94
+00:06:05,951 --> 00:06:07,423
+Now try one yourself.
+
+95
+00:06:07,873 --> 00:06:13,823
+A ten kilogram box slides across a floor
+with mu k equal to zero point two. Use g
+
+96
+00:06:13,823 --> 00:06:19,699
+equals ten. What is the kinetic friction
+force? If you push with thirty newtons,
+
+97
+00:06:19,699 --> 00:06:21,462
+what's the acceleration?
+
+98
+00:06:21,912 --> 00:06:23,192
+Pause the video now.
+
+99
+00:06:23,642 --> 00:06:29,118
+Friction is zero point two times one
+hundred, which is twenty newtons. The net
+
+100
+00:06:29,118 --> 00:06:34,664
+force is thirty minus twenty, ten newtons,
+so the acceleration is one meter per
+
+101
+00:06:34,664 --> 00:06:35,717
+second squared.
+
+102
+00:06:36,016 --> 00:06:41,309
+Put a box on a ramp. Tilt it a little, and
+the box stays put. Tilt it more, and the
+
+103
+00:06:41,309 --> 00:06:42,011
+box slides.
+
+104
+00:06:42,461 --> 00:06:45,767
+To understand why, we split gravity into
+two parts.
+
+105
+00:06:46,917 --> 00:06:52,235
+On a ramp, tilt your axes. Let x point
+along the slope, and y point straight out
+
+106
+00:06:52,235 --> 00:06:53,232
+of the surface.
+
+107
+00:06:53,682 --> 00:07:00,048
+Now the normal force lies along y, and
+friction lies along x. Only gravity is at
+
+108
+00:07:00,048 --> 00:07:00,765
+an angle.
+
+109
+00:07:01,915 --> 00:07:03,792
+Split gravity into components.
+
+110
+00:07:04,242 --> 00:07:09,533
+The part along the slope is m g sine
+theta. It pulls the box down the ramp.
+
+111
+00:07:09,983 --> 00:07:15,828
+The part into the surface is m g cosine
+theta. It presses the box into the ramp.
+
+112
+00:07:16,978 --> 00:07:19,794
+Perpendicular to the ramp, nothing
+accelerates.
+
+113
+00:07:20,244 --> 00:07:26,164
+So the normal force equals m g cosine
+theta. On a ramp, the normal force is less
+
+114
+00:07:26,164 --> 00:07:27,348
+than the weight.
+
+115
+00:07:28,498 --> 00:07:33,703
+Example: a frictionless ramp tilted at
+thirty degrees. Use g equals ten.
+
+116
+00:07:34,153 --> 00:07:40,260
+Along the slope, the net force is m g sine
+theta, so the acceleration is g sine
+
+117
+00:07:40,260 --> 00:07:40,724
+theta.
+
+118
+00:07:41,174 --> 00:07:46,276
+That's ten times sine thirty, which is
+five meters per second squared, down the
+
+119
+00:07:46,276 --> 00:07:48,214
+ramp. The mass doesn't matter.
+
+120
+00:07:49,364 --> 00:07:52,884
+With friction, friction points up the
+slope, against the sliding.
+
+121
+00:07:53,334 --> 00:08:00,502
+The net force along the slope is m g sine
+theta minus mu k times m g cosine theta.
+
+122
+00:08:00,952 --> 00:08:06,435
+So the acceleration is g times sine theta
+minus mu k cosine theta.
+
+123
+00:08:07,585 --> 00:08:09,057
+Now try one yourself.
+
+124
+00:08:09,507 --> 00:08:15,840
+A box slides down a ramp at thirty seven
+degrees, where sine is zero point six and
+
+125
+00:08:15,840 --> 00:08:21,943
+cosine is zero point eight. Mu k is zero
+point two five, and g is ten. Find the
+
+126
+00:08:21,943 --> 00:08:22,947
+acceleration.
+
+127
+00:08:23,397 --> 00:08:24,677
+Pause the video now.
+
+128
+00:08:25,127 --> 00:08:30,961
+a equals ten times zero point six minus
+zero point two five times zero point
+
+129
+00:08:30,961 --> 00:08:37,180
+eight. That's ten times zero point four,
+which is four meters per second squared.
+
+130
+00:08:37,480 --> 00:08:42,740
+Ropes, cables and chains let us pull from
+a distance, and pulleys let us change the
+
+131
+00:08:42,740 --> 00:08:44,008
+direction of a pull.
+
+132
+00:08:44,458 --> 00:08:48,191
+To solve these problems, we need one more
+force: tension.
+
+133
+00:08:49,341 --> 00:08:53,907
+Tension is the pulling force a rope exerts
+on whatever it's attached to.
+
+134
+00:08:54,357 --> 00:08:59,408
+A rope can only pull, never push. The
+tension arrow always points along the
+
+135
+00:08:59,408 --> 00:09:01,226
+rope, away from the object.
+
+136
+00:09:01,676 --> 00:09:07,235
+For a light rope, the tension is the same
+all along it. An ideal pulley just changes
+
+137
+00:09:07,235 --> 00:09:08,161
+its direction.
+
+138
+00:09:09,311 --> 00:09:14,645
+Example one: a ten kilogram bucket hangs
+from a rope. Use g equals ten.
+
+139
+00:09:15,095 --> 00:09:20,646
+If the bucket hangs still, the tension
+balances its weight. T equals m g, which
+
+140
+00:09:20,646 --> 00:09:22,263
+is one hundred newtons.
+
+141
+00:09:22,713 --> 00:09:27,995
+If you pull the bucket up with an
+acceleration of two meters per second
+
+142
+00:09:27,995 --> 00:09:33,723
+squared, T minus m g equals m a. So T is
+ten times twelve, one hundred twenty
+
+143
+00:09:33,723 --> 00:09:34,318
+newtons.
+
+144
+00:09:35,468 --> 00:09:40,998
+Example two: two blocks are joined by a
+string on a frictionless table. A pull of
+
+145
+00:09:40,998 --> 00:09:43,660
+thirty newtons acts on the front block.
+
+146
+00:09:44,110 --> 00:09:48,743
+The back block has a mass of two
+kilograms, and the front block has a mass
+
+147
+00:09:48,743 --> 00:09:49,870
+of four kilograms.
+
+148
+00:09:50,320 --> 00:09:56,473
+Treat them as one system first. The total
+mass is six kilograms, so the acceleration
+
+149
+00:09:56,473 --> 00:10:01,307
+is thirty divided by six, which is five
+meters per second squared.
+
+150
+00:10:01,757 --> 00:10:07,512
+Now look at the back block alone. The only
+horizontal force on it is the string's
+
+151
+00:10:07,512 --> 00:10:11,421
+tension. T equals two times five, which is
+ten newtons.
+
+152
+00:10:12,571 --> 00:10:17,975
+Example three: an Atwood machine. Two
+masses hang over a pulley: three kilograms
+
+153
+00:10:17,975 --> 00:10:20,272
+on one side, and two on the other.
+
+154
+00:10:20,722 --> 00:10:25,510
+The heavier side goes down. The net
+driving force is the difference in
+
+155
+00:10:25,510 --> 00:10:29,341
+weights: three minus two, times g, which
+is ten newtons.
+
+156
+00:10:29,791 --> 00:10:35,133
+That force moves the total mass of five
+kilograms. So the acceleration is two
+
+157
+00:10:35,133 --> 00:10:36,937
+meters per second squared.
+
+158
+00:10:38,087 --> 00:10:41,223
+Here's the method for any connected
+objects problem.
+
+159
+00:10:41,673 --> 00:10:47,287
+Draw a free body diagram for each object.
+Use the fact that they share the same
+
+160
+00:10:47,287 --> 00:10:50,697
+acceleration. Then solve the equations
+together.
+
+161
+00:10:51,847 --> 00:10:53,319
+Now try one yourself.
+
+162
+00:10:53,769 --> 00:10:59,780
+A five kilogram block on a frictionless
+table is tied over a pulley to a hanging
+
+163
+00:10:59,780 --> 00:11:05,865
+block of five kilograms. Use g equals ten.
+Find the acceleration and the tension.
+
+164
+00:11:06,315 --> 00:11:07,595
+Pause the video now.
+
+165
+00:11:08,045 --> 00:11:13,622
+The driving force is fifty newtons, and
+the total mass is ten kilograms, so a is
+
+166
+00:11:13,622 --> 00:11:19,059
+five meters per second squared. For the
+table block, T equals five times five,
+
+167
+00:11:19,059 --> 00:11:21,080
+which is twenty five newtons.
+
+168
+00:11:21,530 --> 00:11:27,119
+That completes Unit 3. Next, we'll move in
+circles: circular motion and gravity.
+
+169
+00:11:28,269 --> 00:11:33,104
+If this lesson helped, subscribe to School
+Physics, Explained, and tap the bell so
+
+170
+00:11:33,104 --> 00:11:34,755
+you don't miss the next one.
+

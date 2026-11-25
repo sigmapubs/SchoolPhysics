@@ -15,5 +15,6 @@ Each folder holds one ~10-minute video built from several related lessons:
 | `high-school-physics/unit-1/part-2` | Acceleration, Motion Graphs, Kinematic Equations and Free Fall · High School Physics Unit 1, Part 2 | 7:36 |
 | `high-school-physics/unit-2` | Vectors and Projectile Motion: Full Unit · High School Physics Unit 2 | 10:01 |
 | `high-school-physics/unit-3/part-1` | Forces and Newton's Three Laws of Motion · High School Physics Unit 3, Part 1 | 8:53 |
+| `high-school-physics/unit-3/part-2` | Free-Body Diagrams, Normal Force, Friction, Inclines and Tension · High School Physics Unit 3, Part 2 | 11:37 |
 | `ap-physics-1/unit-1/part-1` | 1D Kinematics: Displacement, Velocity, Acceleration and Motion Graphs · AP Physics 1 Unit 1, Part 1 | 10:30 |
 | `ap-physics-1/unit-1/part-2` | Free Fall, Vectors, Projectile Motion and Relative Motion · AP Physics 1 Unit 1, Part 2 | 8:30 |
