@@ -1,0 +1,643 @@
+1
+00:00:00,000 --> 00:00:02,240
+Welcome to School Physics, Explained.
+
+2
+00:00:02,690 --> 00:00:08,384
+This is High School Physics, Unit 3,
+Forces and Newton's Laws, Part 1. In this
+
+3
+00:00:08,384 --> 00:00:10,647
+video, we'll cover four topics.
+
+4
+00:00:11,097 --> 00:00:12,249
+What Is a Force?.
+
+5
+00:00:12,699 --> 00:00:14,534
+Newton's First Law and Inertia.
+
+6
+00:00:14,984 --> 00:00:16,371
+Newton's Second Law.
+
+7
+00:00:16,821 --> 00:00:18,762
+Newton's Third Law: Force Pairs.
+
+8
+00:00:19,212 --> 00:00:20,428
+Let's get started.
+
+9
+00:00:22,066 --> 00:00:27,273
+Kick a ball, pull a door, or drop your
+keys. Something always makes the motion
+
+10
+00:00:27,273 --> 00:00:27,741
+change.
+
+11
+00:00:28,191 --> 00:00:30,260
+In physics, that something is a force.
+
+12
+00:00:31,410 --> 00:00:33,927
+A force is a push or a pull on an object.
+
+13
+00:00:34,377 --> 00:00:40,033
+Every force has a size and a direction, so
+a force is a vector. We draw it as an
+
+14
+00:00:40,033 --> 00:00:40,457
+arrow.
+
+15
+00:00:40,907 --> 00:00:45,921
+We measure force in newtons. One newton is
+about the weight of a small apple.
+
+16
+00:00:47,071 --> 00:00:50,377
+Some forces need contact. The objects have
+to touch.
+
+17
+00:00:50,827 --> 00:00:56,569
+A hand pushing a box is an applied force.
+A floor pushing up on the box is the
+
+18
+00:00:56,569 --> 00:00:57,526
+normal force.
+
+19
+00:00:57,976 --> 00:01:02,680
+Friction acts along the surface and
+resists sliding. And a rope pulling on
+
+20
+00:01:02,680 --> 00:01:04,205
+something gives tension.
+
+21
+00:01:05,355 --> 00:01:10,945
+Other forces act at a distance, with no
+contact at all. We call them field forces.
+
+22
+00:01:11,395 --> 00:01:15,789
+Gravity pulls a falling apple toward the
+Earth, even through empty air.
+
+23
+00:01:16,239 --> 00:01:20,826
+Magnets and electric charges can also push
+or pull without touching.
+
+24
+00:01:21,976 --> 00:01:25,304
+Usually several forces act on an object at
+once.
+
+25
+00:01:25,754 --> 00:01:30,482
+A book resting on a table has gravity
+pulling it down, and the normal force
+
+26
+00:01:30,482 --> 00:01:31,365
+pushing it up.
+
+27
+00:01:31,815 --> 00:01:37,275
+The two forces are equal in size and
+opposite in direction, so they cancel. The
+
+28
+00:01:37,275 --> 00:01:40,177
+net force is zero, and the book stays put.
+
+29
+00:01:41,327 --> 00:01:44,101
+When the forces don't cancel, there's a
+net force.
+
+30
+00:01:44,551 --> 00:01:49,073
+Pull a sled forward with thirty newtons
+while friction pulls back with ten.
+
+31
+00:01:49,523 --> 00:01:55,081
+The net force is twenty newtons forward.
+That unbalanced force is what changes the
+
+32
+00:01:55,081 --> 00:01:56,030
+sled's motion.
+
+33
+00:01:57,180 --> 00:01:58,652
+Now try one yourself.
+
+34
+00:01:59,102 --> 00:02:04,495
+Two people push a crate. One pushes right
+with forty newtons, the other pushes left
+
+35
+00:02:04,495 --> 00:02:07,614
+with twenty five newtons. What is the net
+force?
+
+36
+00:02:08,064 --> 00:02:09,344
+Pause the video now.
+
+37
+00:02:09,794 --> 00:02:15,410
+The forces point in opposite directions,
+so subtract. Forty minus twenty five is
+
+38
+00:02:15,410 --> 00:02:17,517
+fifteen newtons, to the right.
+
+39
+00:02:17,817 --> 00:02:22,745
+Slide a hockey puck across the ice, and it
+glides a long way before it stops.
+
+40
+00:02:23,195 --> 00:02:26,886
+On a perfectly frictionless surface, would
+it ever stop at all?
+
+41
+00:02:28,036 --> 00:02:32,580
+For centuries, people thought moving
+things naturally slow down and stop.
+
+42
+00:02:33,030 --> 00:02:38,303
+Galileo and Newton saw it differently.
+Things slow down because a force, like
+
+43
+00:02:38,303 --> 00:02:39,878
+friction, acts on them.
+
+44
+00:02:40,328 --> 00:02:43,869
+Take friction away, and a moving object
+just keeps going.
+
+45
+00:02:45,019 --> 00:02:46,640
+That's Newton's first law.
+
+46
+00:02:47,090 --> 00:02:52,365
+An object at rest stays at rest, and an
+object in motion keeps moving at a
+
+47
+00:02:52,365 --> 00:02:55,858
+constant velocity, unless a net force acts
+on it.
+
+48
+00:02:56,308 --> 00:02:59,978
+Constant velocity means the same speed, in
+a straight line.
+
+49
+00:03:01,128 --> 00:03:05,288
+The tendency to keep doing what you're
+already doing is called inertia.
+
+50
+00:03:05,738 --> 00:03:08,959
+The more mass an object has, the more
+inertia it has.
+
+51
+00:03:09,409 --> 00:03:14,145
+A bowling ball is much harder to start,
+stop, or turn than a tennis ball.
+
+52
+00:03:15,295 --> 00:03:16,959
+You feel inertia in a car.
+
+53
+00:03:17,409 --> 00:03:22,121
+When the car brakes suddenly, your body
+keeps moving forward. The seat belt
+
+54
+00:03:22,121 --> 00:03:24,257
+supplies the force that stops you.
+
+55
+00:03:24,707 --> 00:03:29,510
+When the car pulls away quickly, you feel
+pressed back into the seat, because your
+
+56
+00:03:29,510 --> 00:03:31,384
+body tends to stay where it was.
+
+57
+00:03:32,534 --> 00:03:36,694
+Here's the key point. Zero net force does
+not mean zero motion.
+
+58
+00:03:37,144 --> 00:03:42,155
+A car cruising at a steady sixty
+kilometers per hour on a straight road has
+
+59
+00:03:42,155 --> 00:03:43,224
+balanced forces.
+
+60
+00:03:43,674 --> 00:03:49,267
+The engine's push forward exactly cancels
+the drag and friction pulling back. The
+
+61
+00:03:49,267 --> 00:03:52,720
+net force is zero, so the velocity doesn't
+change.
+
+62
+00:03:53,870 --> 00:03:55,342
+Now try one yourself.
+
+63
+00:03:55,792 --> 00:04:01,372
+A spacecraft far from any star or planet
+is coasting at two thousand meters per
+
+64
+00:04:01,372 --> 00:04:05,328
+second, with its engines off. What happens
+to its speed?
+
+65
+00:04:05,778 --> 00:04:07,058
+Pause the video now.
+
+66
+00:04:07,508 --> 00:04:12,756
+With no net force acting on it, it keeps
+moving at two thousand meters per second,
+
+67
+00:04:12,756 --> 00:04:14,548
+in a straight line, forever.
+
+68
+00:04:14,848 --> 00:04:18,133
+Push an empty shopping cart, and it speeds
+up easily.
+
+69
+00:04:18,583 --> 00:04:21,975
+Push a full one just as hard, and it
+barely gets going.
+
+70
+00:04:22,425 --> 00:04:27,529
+Newton's second law tells us exactly how
+force, mass and acceleration are
+
+71
+00:04:27,529 --> 00:04:28,228
+connected.
+
+72
+00:04:29,378 --> 00:04:33,901
+Here's a cart on a smooth, level track, so
+we can ignore friction for now.
+
+73
+00:04:34,351 --> 00:04:38,745
+We give it a steady push, and watch how
+quickly its velocity changes.
+
+74
+00:04:39,195 --> 00:04:41,542
+That rate of change is the acceleration.
+
+75
+00:04:42,692 --> 00:04:48,246
+Start with a push of ten newtons on a two
+kilogram cart. It accelerates at five
+
+76
+00:04:48,246 --> 00:04:50,073
+meters per second squared.
+
+77
+00:04:50,523 --> 00:04:54,022
+Now double the force to twenty newtons, on
+the same cart.
+
+78
+00:04:54,472 --> 00:04:58,568
+The acceleration doubles too, to ten
+meters per second squared.
+
+79
+00:04:59,018 --> 00:05:01,898
+Acceleration is proportional to the net
+force.
+
+80
+00:05:03,048 --> 00:05:07,869
+Next, keep the force at ten newtons, but
+double the mass to four kilograms.
+
+81
+00:05:08,319 --> 00:05:13,375
+Now the acceleration is cut in half, to
+two and a half meters per second squared.
+
+82
+00:05:13,825 --> 00:05:16,940
+Acceleration is inversely proportional to
+mass.
+
+83
+00:05:18,090 --> 00:05:20,991
+Put those together, and you get Newton's
+second law.
+
+84
+00:05:21,441 --> 00:05:24,769
+Acceleration equals net force divided by
+mass.
+
+85
+00:05:25,219 --> 00:05:30,147
+Or, as it's usually written, net force
+equals mass times acceleration.
+
+86
+00:05:30,597 --> 00:05:36,059
+One newton is the force that gives one
+kilogram an acceleration of one meter per
+
+87
+00:05:36,059 --> 00:05:37,083
+second squared.
+
+88
+00:05:38,233 --> 00:05:42,701
+The word net matters. It means the sum of
+all the forces, including their
+
+89
+00:05:42,701 --> 00:05:43,374
+directions.
+
+90
+00:05:43,824 --> 00:05:48,717
+Suppose you push a box with fifty newtons
+to the right, while friction pulls back
+
+91
+00:05:48,717 --> 00:05:49,925
+with twenty newtons.
+
+92
+00:05:50,375 --> 00:05:52,914
+The net force is thirty newtons, to the
+right.
+
+93
+00:05:53,364 --> 00:05:57,439
+And the acceleration always points the
+same way as the net force.
+
+94
+00:05:58,589 --> 00:06:00,253
+Let's try a real example.
+
+95
+00:06:00,703 --> 00:06:06,164
+A twelve hundred kilogram car has a net
+force of three thousand newtons pushing it
+
+96
+00:06:06,164 --> 00:06:06,697
+forward.
+
+97
+00:06:07,147 --> 00:06:12,189
+Divide three thousand by twelve hundred,
+and the acceleration is two and a half
+
+98
+00:06:12,189 --> 00:06:14,422
+meters per second squared, forward.
+
+99
+00:06:15,572 --> 00:06:17,044
+Now try one yourself.
+
+100
+00:06:17,494 --> 00:06:23,143
+A five kilogram box is pushed with thirty
+newtons, and friction pushes back with ten
+
+101
+00:06:23,143 --> 00:06:25,430
+newtons. What is its acceleration?
+
+102
+00:06:25,880 --> 00:06:27,160
+Pause the video now.
+
+103
+00:06:27,610 --> 00:06:32,963
+The net force is twenty newtons, so the
+acceleration is twenty divided by five,
+
+104
+00:06:32,963 --> 00:06:35,674
+which is four meters per second squared.
+
+105
+00:06:35,974 --> 00:06:41,030
+Push on a wall, and the wall pushes back
+on you. Lean on it, and you don't fall
+
+106
+00:06:41,030 --> 00:06:41,350
+over.
+
+107
+00:06:41,800 --> 00:06:44,936
+Forces never come alone. They always come
+in pairs.
+
+108
+00:06:46,086 --> 00:06:52,198
+Newton's third law says: when object A
+pushes on object B, object B pushes back
+
+109
+00:06:52,198 --> 00:06:53,126
+on object A.
+
+110
+00:06:53,576 --> 00:06:57,480
+The two forces are equal in size and
+opposite in direction.
+
+111
+00:06:57,930 --> 00:07:02,005
+We write it as F on B by A equals minus F
+on A by B.
+
+112
+00:07:03,155 --> 00:07:05,352
+To spot a force pair, swap the names.
+
+113
+00:07:05,802 --> 00:07:10,731
+The Earth pulls down on you. So you pull
+up on the Earth, with exactly the same
+
+114
+00:07:10,731 --> 00:07:11,605
+size of force.
+
+115
+00:07:12,055 --> 00:07:16,743
+Your feet push back on the ground when you
+walk, and the ground pushes you forward.
+
+116
+00:07:16,743 --> 00:07:17,985
+That's what moves you.
+
+117
+00:07:19,135 --> 00:07:22,783
+If the forces are equal and opposite, why
+don't they cancel?
+
+118
+00:07:23,233 --> 00:07:28,631
+Because they act on different objects. One
+force acts on A, the other acts on B.
+
+119
+00:07:29,081 --> 00:07:32,366
+Forces only cancel when they act on the
+same object.
+
+120
+00:07:33,516 --> 00:07:36,524
+Here's a classic mix up. A book rests on a
+table.
+
+121
+00:07:36,974 --> 00:07:42,311
+Gravity pulls the book down, and the table
+pushes the book up. These are equal, but
+
+122
+00:07:42,311 --> 00:07:46,169
+they are not a third law pair, because
+both act on the book.
+
+123
+00:07:46,619 --> 00:07:51,305
+The real partner of the table's push is
+the book pushing down on the table. And
+
+124
+00:07:51,305 --> 00:07:55,813
+the partner of Earth's pull on the book is
+the book pulling up on the Earth.
+
+125
+00:07:56,963 --> 00:08:00,099
+Equal forces don't mean equal
+accelerations.
+
+126
+00:08:00,549 --> 00:08:05,655
+When a bug hits a car's windshield, the
+bug and the car feel the same size of
+
+127
+00:08:05,655 --> 00:08:06,053
+force.
+
+128
+00:08:06,503 --> 00:08:12,140
+But the car has a huge mass, so its
+acceleration is tiny. The bug's mass is
+
+129
+00:08:12,140 --> 00:08:14,695
+tiny, so its acceleration is huge.
+
+130
+00:08:15,845 --> 00:08:17,317
+Now try one yourself.
+
+131
+00:08:17,767 --> 00:08:22,827
+A skater pushes off a wall with eighty
+newtons. How big is the force the wall
+
+132
+00:08:22,827 --> 00:08:25,981
+puts on the skater, and which way does it
+point?
+
+133
+00:08:26,431 --> 00:08:27,711
+Pause the video now.
+
+134
+00:08:28,161 --> 00:08:33,073
+The wall pushes back on the skater with
+eighty newtons, pointing away from the
+
+135
+00:08:33,073 --> 00:08:36,033
+wall. That's what sends the skater gliding
+off.
+
+136
+00:08:36,483 --> 00:08:42,262
+Next time, we'll draw all the forces on an
+object in one clear picture: free body
+
+137
+00:08:42,262 --> 00:08:42,904
+diagrams.
+
+138
+00:08:44,054 --> 00:08:48,889
+If this lesson helped, subscribe to School
+Physics, Explained, and tap the bell so
+
+139
+00:08:48,889 --> 00:08:50,539
+you don't miss the next one.
+
