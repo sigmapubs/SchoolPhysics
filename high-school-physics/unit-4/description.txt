@@ -1,0 +1,48 @@
+Why does something moving in a circle at constant speed still accelerate? Learn centripetal acceleration and force, which real forces keep cars, balls and moons turning, Newton's law of universal gravitation and the inverse square law, and how satellites stay in orbit. Each section ends with a practice problem you can pause and try.
+
+Course: High School Physics · Unit 4: Circular Motion and Gravity
+Previous: Applying Newton's Laws (Unit 3, Part 2)
+Next: High School Physics, Unit 5: Energy, Work and Power
+
+0:00 Introduction
+0:26 Uniform Circular Motion and Centripetal Acceleration
+0:37 Velocity is tangent
+0:55 Acceleration points to the center
+1:14 a = v²/r
+1:32 Speed from the period
+1:43 Worked example
+1:56 Your turn
+2:18 Centripetal Force in Real Situations
+2:33 F = mv²/r
+2:52 Which force does the job?
+3:06 No outward force
+3:19 Car on a flat curve
+3:46 Bucket in a vertical circle
+4:04 Your turn
+4:30 Newton's Law of Universal Gravitation
+5:07 A third-law pair
+5:33 Where g comes from
+5:55 Your turn
+6:16 Orbits and Satellites
+6:32 Gravity as centripetal force
+6:50 Orbital speed
+7:07 Period, ISS and geostationary
+7:32 Why astronauts float
+7:49 Your turn
+
+High School Physics, the complete course (11 units, full syllabus):
+• Unit 1: Measurement and Motion Basics
+• Unit 2: Vectors and 2D Motion
+• Unit 3: Forces and Newton's Laws
+▶ Unit 4: Circular Motion and Gravity  (you are here)
+• Unit 5: Energy, Work and Power
+• Unit 6: Momentum
+• Unit 7: Waves and Sound
+• Unit 8: Light and Optics
+• Unit 9: Electricity
+• Unit 10: Magnetism
+• Unit 11: Thermal and Modern Physics
+Follow the whole course in order in the "High School Physics (Full Course)" playlist.
+
+School Physics, Explained covers the full physics syllabus: High School Physics, AP Physics 1, AP Physics 2 and AP Physics C.
+#physics #highschoolphysics #circularmotion
