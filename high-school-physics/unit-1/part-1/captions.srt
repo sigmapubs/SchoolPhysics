@@ -1,567 +1,1003 @@
 1
-00:00:00,000 --> 00:00:02,240
+00:00:00,000 --> 00:00:02,005
 Welcome to School Physics, Explained.
 
 2
-00:00:02,690 --> 00:00:08,237
+00:00:02,455 --> 00:00:07,611
 This is High School Physics, Unit 1,
 Measurement and Motion Basics, Part 1. In
 
 3
-00:00:08,237 --> 00:00:10,797
-this video, we'll cover four topics.
+00:00:07,611 --> 00:00:11,842
+this video, we'll cover four topics, each
+with a worked example.
 
 4
-00:00:11,247 --> 00:00:14,169
+00:00:12,292 --> 00:00:15,001
 Why Physics? Models, Measurement and SI
 Units.
 
 5
-00:00:14,619 --> 00:00:18,929
+00:00:15,451 --> 00:00:19,483
 Scientific Notation, Significant Figures
 and Unit Conversion.
 
 6
-00:00:19,379 --> 00:00:22,621
+00:00:19,933 --> 00:00:22,984
 Scalars versus Vectors: Distance and
 Displacement.
 
 7
-00:00:23,071 --> 00:00:24,458
+00:00:23,434 --> 00:00:24,735
 Speed and Velocity.
 
 8
-00:00:24,908 --> 00:00:26,124
+00:00:25,185 --> 00:00:26,273
 Let's get started.
 
 9
-00:00:27,766 --> 00:00:32,923
+00:00:27,916 --> 00:00:32,725
 Why does a ball fall? How fast does light
 travel? How much energy does a phone
 
 10
-00:00:32,923 --> 00:00:33,782
+00:00:32,725 --> 00:00:33,527
 battery hold?
 
 11
-00:00:34,232 --> 00:00:38,791
+00:00:33,977 --> 00:00:38,296
 Physics is the science that answers
 questions like these, using careful
 
 12
-00:00:38,791 --> 00:00:40,717
+00:00:38,296 --> 00:00:40,121
 measurement and simple models.
 
 13
-00:00:41,867 --> 00:00:46,561
+00:00:41,271 --> 00:00:45,623
 A model is a simplified picture of reality
 that we can calculate with.
 
 14
-00:00:47,011 --> 00:00:51,896
+00:00:46,073 --> 00:00:50,553
 For a thrown ball, we might ignore the
 air, and treat the ball as a single point.
 
 15
-00:00:52,346 --> 00:00:56,143
+00:00:51,003 --> 00:00:54,608
 The model isn't perfect, but it predicts
 the ball's path very well.
 
 16
-00:00:57,293 --> 00:01:00,472
+00:00:55,758 --> 00:00:58,723
 Every measurement has two parts: a number,
 and a unit.
 
 17
-00:01:00,922 --> 00:01:03,546
+00:00:59,173 --> 00:01:01,691
 Saying a table is two long tells us
 nothing.
 
 18
-00:01:03,996 --> 00:01:08,284
+00:01:02,141 --> 00:01:06,130
 Two meters, two feet, and two centimeters
 are very different tables.
 
 19
-00:01:09,434 --> 00:01:13,679
+00:01:07,280 --> 00:01:11,248
 Scientists everywhere use the same system
 of units, called S I.
 
 20
-00:01:14,129 --> 00:01:18,878
+00:01:11,698 --> 00:01:16,161
 The three you'll use most are the meter
 for length, the kilogram for mass, and the
 
 21
-00:01:18,878 --> 00:01:19,804
+00:01:16,161 --> 00:01:17,031
 second for time.
 
 22
-00:01:20,254 --> 00:01:25,168
+00:01:17,481 --> 00:01:22,160
 Other units are built from these. For
 example, speed is measured in meters per
 
 23
-00:01:25,168 --> 00:01:25,609
+00:01:22,160 --> 00:01:22,580
 second.
 
 24
-00:01:26,759 --> 00:01:31,004
+00:01:23,730 --> 00:01:27,570
 For very large or very small amounts, S I
 uses prefixes.
 
 25
-00:01:31,454 --> 00:01:35,763
+00:01:28,020 --> 00:01:32,095
 Kilo means one thousand, so a kilometer is
 one thousand meters.
 
 26
-00:01:36,213 --> 00:01:39,691
+00:01:32,545 --> 00:01:35,809
 Centi means one hundredth, and milli means
 one thousandth.
 
 27
-00:01:40,841 --> 00:01:44,062
+00:01:36,959 --> 00:01:39,860
 Let's convert two point five kilometers to
 meters.
 
 28
-00:01:44,512 --> 00:01:50,047
+00:01:40,310 --> 00:01:45,426
 One kilometer is one thousand meters, so
 we multiply two point five by one
 
 29
-00:01:50,047 --> 00:01:50,720
+00:01:45,426 --> 00:01:46,049
 thousand.
 
 30
-00:01:51,170 --> 00:01:53,687
+00:01:46,499 --> 00:01:48,781
 That gives two thousand five hundred
 meters.
 
 31
-00:01:54,837 --> 00:01:56,309
+00:01:49,931 --> 00:01:51,297
 Now try one yourself.
 
 32
-00:01:56,759 --> 00:02:01,538
+00:01:51,747 --> 00:01:56,189
 A student sits three hundred fifty
 centimeters from the board. How far is
 
 33
-00:02:01,538 --> 00:02:02,519
+00:01:56,189 --> 00:01:57,101
 that in meters?
 
 34
-00:02:02,969 --> 00:02:04,249
+00:01:57,551 --> 00:01:58,746
 Pause the video now.
 
 35
-00:02:04,699 --> 00:02:10,695
+00:01:59,196 --> 00:02:04,876
 One meter is one hundred centimeters, so
 divide by one hundred. The answer is three
 
 36
-00:02:10,695 --> 00:02:11,995
+00:02:04,876 --> 00:02:06,108
 point five meters.
 
 37
-00:02:12,296 --> 00:02:17,011
+00:02:06,408 --> 00:02:09,565
+Now let's work through a complete example,
+step by step.
+
+38
+00:02:10,715 --> 00:02:15,835
+A table is one hundred fifty centimeters
+long and seventy five centimeters wide.
+
+39
+00:02:16,285 --> 00:02:18,781
+Find its area in SI units, square meters.
+
+40
+00:02:19,931 --> 00:02:24,411
+The SI unit of length is the meter, so
+convert each length to meters first.
+
+41
+00:02:24,861 --> 00:02:26,504
+Then multiply length by width.
+
+42
+00:02:27,654 --> 00:02:32,842
+Length: one hundred fifty centimeters
+divided by one hundred is one point five
+
+43
+00:02:32,842 --> 00:02:33,307
+meters.
+
+44
+00:02:33,757 --> 00:02:37,917
+Width: seventy five centimeters is zero
+point seven five meters.
+
+45
+00:02:38,367 --> 00:02:43,709
+Area: one point five times zero point
+seven five, which is one point one two
+
+46
+00:02:43,709 --> 00:02:45,045
+five square meters.
+
+47
+00:02:45,495 --> 00:02:50,500
+Check another way: in centimeters, the
+area is eleven thousand two hundred fifty
+
+48
+00:02:50,500 --> 00:02:55,818
+square centimeters. One square meter holds
+ten thousand square centimeters, so that's
+
+49
+00:02:55,818 --> 00:02:58,508
+one point one two five square meters
+again.
+
+50
+00:02:59,658 --> 00:03:03,007
+The table's area is about one point one
+square meters.
+
+51
+00:03:03,457 --> 00:03:08,205
+Tip: a square meter is one hundred
+centimeters by one hundred centimeters.
+
+52
+00:03:08,205 --> 00:03:11,799
+That's ten thousand square centimeters,
+not one hundred.
+
+53
+00:03:12,249 --> 00:03:17,539
+Tip: convert lengths to meters before you
+multiply. It avoids the squared-unit trap.
+
+54
+00:03:17,989 --> 00:03:22,973
+Tip: always write the unit. A number
+alone, like one point one, means nothing
+
+55
+00:03:22,973 --> 00:03:23,685
+in physics.
+
+56
+00:03:24,835 --> 00:03:29,747
+Your turn. A phone screen is fifteen
+centimeters by seven centimeters. What is
+
+57
+00:03:29,747 --> 00:03:31,385
+its area in square meters?
+
+58
+00:03:31,835 --> 00:03:33,029
+Pause the video now.
+
+59
+00:03:33,479 --> 00:03:39,702
+Fifteen centimeters is zero point one five
+meters, and seven centimeters is zero
+
+60
+00:03:39,702 --> 00:03:45,692
+point zero seven meters. Multiply to get
+zero point zero one zero five square
+
+61
+00:03:45,692 --> 00:03:46,237
+meters.
+
+62
+00:03:46,537 --> 00:03:50,974
 The distance from Earth to the Sun is
 about one hundred fifty billion meters.
 
-38
-00:02:17,461 --> 00:02:21,087
+63
+00:03:51,424 --> 00:03:54,795
 A human hair is about seventy millionths
 of a meter wide.
 
-39
-00:02:21,537 --> 00:02:27,565
+64
+00:03:55,245 --> 00:04:00,992
 Writing all those zeros is slow, and easy
 to get wrong. Scientific notation fixes
 
-40
-00:02:27,565 --> 00:02:27,937
+65
+00:04:00,992 --> 00:04:01,346
 that.
 
-41
-00:02:29,087 --> 00:02:34,970
+66
+00:04:02,496 --> 00:04:07,946
 In scientific notation, we write a number
 as a value from one to ten, times a power
 
-42
-00:02:34,970 --> 00:02:35,466
+67
+00:04:07,946 --> 00:04:08,406
 of ten.
 
-43
-00:02:35,916 --> 00:02:41,493
+68
+00:04:08,856 --> 00:04:14,020
 One hundred fifty billion meters becomes
 one point five times ten to the eleventh
 
-44
-00:02:41,493 --> 00:02:41,975
+69
+00:04:14,020 --> 00:04:14,466
 meters.
 
-45
-00:02:42,425 --> 00:02:47,545
+70
+00:04:14,916 --> 00:04:19,866
 Seventy millionths of a meter becomes
 seven times ten to the minus five meters.
 
-46
-00:02:48,695 --> 00:02:51,553
+71
+00:04:21,016 --> 00:04:23,618
 Every measurement also has limited
 precision.
 
-47
-00:02:52,003 --> 00:02:57,159
+72
+00:04:24,068 --> 00:04:28,874
 With a ruler marked in centimeters, we
 might read a pencil's length as fourteen
 
-48
-00:02:57,159 --> 00:02:58,595
+73
+00:04:28,874 --> 00:04:30,212
 point six centimeters.
 
-49
-00:02:59,045 --> 00:03:02,779
+74
+00:04:30,662 --> 00:04:34,204
 The one and the four are certain, and the
 six is our best estimate.
 
-50
-00:03:03,229 --> 00:03:08,251
+75
+00:04:34,654 --> 00:04:39,221
 The digits we can trust are called
 significant figures. This measurement has
 
-51
-00:03:08,251 --> 00:03:08,647
+76
+00:04:39,221 --> 00:04:39,582
 three.
 
-52
-00:03:09,797 --> 00:03:15,128
+77
+00:04:40,732 --> 00:04:45,586
 When you multiply or divide, round the
 answer to the fewest significant figures
 
-53
-00:03:15,128 --> 00:03:16,005
+78
+00:04:45,586 --> 00:04:46,385
 in your data.
 
-54
-00:03:16,455 --> 00:03:22,661
+79
+00:04:46,835 --> 00:04:52,528
 For example, two point five meters times
 three point four two meters is eight point
 
-55
-00:03:22,661 --> 00:03:24,455
+80
+00:04:52,528 --> 00:04:54,174
 five five square meters.
 
-56
-00:03:24,905 --> 00:03:29,944
+81
+00:04:54,624 --> 00:04:59,279
 But two point five has only two
 significant figures, so we report eight
 
-57
-00:03:29,944 --> 00:03:31,647
+82
+00:04:59,279 --> 00:05:00,853
 point six square meters.
 
-58
-00:03:32,797 --> 00:03:38,578
+83
+00:05:02,003 --> 00:05:07,443
 To convert units, multiply by conversion
 factors: fractions that are equal to one.
 
-59
-00:03:39,028 --> 00:03:43,423
+84
+00:05:07,893 --> 00:05:12,074
 Let's convert seventy two kilometers per
 hour into meters per second.
 
-60
-00:03:43,873 --> 00:03:49,269
+85
+00:05:12,524 --> 00:05:17,625
 Multiply by one thousand meters over one
 kilometer, and by one hour over three
 
-61
-00:03:49,269 --> 00:03:51,275
+86
+00:05:17,625 --> 00:05:19,522
 thousand six hundred seconds.
 
-62
-00:03:51,725 --> 00:03:56,141
+87
+00:05:19,972 --> 00:05:24,068
 The kilometers and the hours cancel,
 leaving twenty meters per second.
 
-63
-00:03:57,291 --> 00:03:58,763
+88
+00:05:25,218 --> 00:05:26,583
 Now try one yourself.
 
-64
-00:03:59,213 --> 00:04:03,096
+89
+00:05:27,033 --> 00:05:30,596
 Convert fifteen meters per second into
 kilometers per hour.
 
-65
-00:04:03,546 --> 00:04:04,826
+90
+00:05:31,046 --> 00:05:32,240
 Pause the video now.
 
-66
-00:04:05,276 --> 00:04:10,401
+91
+00:05:32,690 --> 00:05:37,489
 Multiply by three thousand six hundred
 seconds per hour, and divide by one
 
-67
-00:04:10,401 --> 00:04:15,665
+92
+00:05:37,489 --> 00:05:42,418
 thousand meters per kilometer. The answer
 is fifty four kilometers per hour.
 
-68
-00:04:15,965 --> 00:04:18,909
+93
+00:05:42,718 --> 00:05:45,875
+Now let's work through a complete example,
+step by step.
+
+94
+00:05:47,025 --> 00:05:52,081
+Light travels at three point zero zero
+times ten to the eight meters per second.
+
+95
+00:05:52,531 --> 00:05:57,267
+The Sun is one point five zero times ten
+to the eleven meters from Earth.
+
+96
+00:05:57,717 --> 00:06:01,451
+How long does sunlight take to reach us,
+in seconds and in minutes?
+
+97
+00:06:02,601 --> 00:06:04,713
+Time is distance divided by speed.
+
+98
+00:06:05,163 --> 00:06:10,155
+In scientific notation, divide the front
+numbers, and subtract the powers of ten.
+
+99
+00:06:11,305 --> 00:06:17,677
+Front numbers: one point five zero divided
+by three point zero zero is zero point
+
+100
+00:06:17,677 --> 00:06:18,857
+five zero zero.
+
+101
+00:06:19,307 --> 00:06:23,744
+Powers: ten to the eleven divided by ten
+to the eight is ten to the three.
+
+102
+00:06:24,194 --> 00:06:28,973
+Together: zero point five times ten to the
+three, which is five hundred seconds.
+
+103
+00:06:29,423 --> 00:06:34,437
+Convert to minutes: five hundred divided
+by sixty is about eight point three three
+
+104
+00:06:34,437 --> 00:06:34,927
+minutes.
+
+105
+00:06:36,077 --> 00:06:40,581
+Sunlight takes about five hundred seconds,
+a little over eight minutes, to reach
+
+106
+00:06:40,581 --> 00:06:40,919
+Earth.
+
+107
+00:06:41,369 --> 00:06:45,771
+Sig figs: both inputs have three
+significant figures, so the answer gets
+
+108
+00:06:45,771 --> 00:06:46,383
+three too.
+
+109
+00:06:46,833 --> 00:06:51,569
+Tip: when dividing powers of ten, subtract
+the exponents. Don't divide them.
+
+110
+00:06:52,019 --> 00:06:56,029
+Tip: write the conversion factor as a
+fraction, so the seconds cancel.
+
+111
+00:06:57,179 --> 00:07:02,046
+Your turn. The Moon is three point eight
+four times ten to the eight meters away.
+
+112
+00:07:02,046 --> 00:07:05,350
+How long does light take to get from the
+Moon to Earth?
+
+113
+00:07:05,800 --> 00:07:06,995
+Pause the video now.
+
+114
+00:07:07,445 --> 00:07:12,983
+Divide: three point eight four over three
+point zero zero is one point two eight,
+
+115
+00:07:12,983 --> 00:07:17,770
+and the powers of ten cancel. So it takes
+one point two eight seconds.
+
+116
+00:07:18,070 --> 00:07:20,865
 You walk four meters east, then three
 meters north.
 
-69
-00:04:19,359 --> 00:04:23,370
+117
+00:07:21,315 --> 00:07:25,005
 How far did you go? The answer depends on
 what we mean by far.
 
-70
-00:04:23,820 --> 00:04:27,724
+118
+00:07:25,455 --> 00:07:29,125
 Physics has two different answers, called
 distance and displacement.
 
-71
-00:04:28,874 --> 00:04:34,091
+119
+00:07:30,275 --> 00:07:35,180
 Some quantities only need a size. Mass,
 time and temperature are like this. We
 
-72
-00:04:34,091 --> 00:04:35,295
+120
+00:07:35,180 --> 00:07:36,312
 call them scalars.
 
-73
-00:04:35,745 --> 00:04:40,294
+121
+00:07:36,762 --> 00:07:41,040
 Other quantities need a size and a
 direction. Pushes, velocities and
 
-74
-00:04:40,294 --> 00:04:43,638
+122
+00:07:41,040 --> 00:07:44,186
 displacements are like this. We call them
 vectors.
 
-75
-00:04:44,088 --> 00:04:48,790
+123
+00:07:44,636 --> 00:07:48,998
 We draw a vector as an arrow. Its length
 shows the size, and it points in the
 
-76
-00:04:48,790 --> 00:04:49,400
+124
+00:07:48,998 --> 00:07:49,564
 direction.
 
-77
-00:04:50,550 --> 00:04:55,414
+125
+00:07:50,714 --> 00:07:55,258
 Distance is a scalar. It's the total
 length of the path you actually traveled.
 
-78
-00:04:55,864 --> 00:05:00,174
+126
+00:07:55,708 --> 00:07:59,783
 In our walk, that's four meters plus three
 meters, which is seven meters.
 
-79
-00:05:01,324 --> 00:05:06,289
+127
+00:08:00,933 --> 00:08:05,494
 Displacement is a vector. It's a straight
 arrow from where you started to where you
 
-80
-00:05:06,289 --> 00:05:06,828
+128
+00:08:05,494 --> 00:08:05,989
 ended up.
 
-81
-00:05:07,278 --> 00:05:12,225
+129
+00:08:06,439 --> 00:08:11,078
 Here it forms the long side of a right
 triangle, so we use the Pythagorean
 
-82
-00:05:12,225 --> 00:05:12,760
+130
+00:08:11,078 --> 00:08:11,580
 theorem.
 
-83
-00:05:13,210 --> 00:05:18,245
+131
+00:08:12,030 --> 00:08:16,870
 Three squared plus four squared is twenty
 five, and the square root of twenty five
 
-84
-00:05:18,245 --> 00:05:18,736
+132
+00:08:16,870 --> 00:08:17,342
 is five.
 
-85
-00:05:19,186 --> 00:05:22,748
+133
+00:08:17,792 --> 00:08:21,141
 So the displacement is five meters,
 pointing north of east.
 
-86
-00:05:23,898 --> 00:05:27,632
+134
+00:08:22,291 --> 00:08:25,833
 Distance can never be smaller than the
 size of the displacement.
 
-87
-00:05:28,082 --> 00:05:32,992
+135
+00:08:26,283 --> 00:08:30,854
 Run one full lap around a four hundred
 meter track, and your distance is four
 
-88
-00:05:32,992 --> 00:05:33,948
+136
+00:08:30,854 --> 00:08:31,744
 hundred meters.
 
-89
-00:05:34,398 --> 00:05:37,897
+137
+00:08:32,194 --> 00:08:35,543
 But you end where you started, so your
 displacement is zero.
 
-90
-00:05:39,047 --> 00:05:40,519
+138
+00:08:36,693 --> 00:08:38,059
 Now try one yourself.
 
-91
-00:05:40,969 --> 00:05:46,006
+139
+00:08:38,509 --> 00:08:43,241
 A dog runs ten meters east, then comes
 back six meters west. What is its
 
-92
-00:05:46,006 --> 00:05:48,734
+140
+00:08:43,241 --> 00:08:45,805
 distance, and what is its displacement?
 
-93
-00:05:49,184 --> 00:05:50,464
+141
+00:08:46,255 --> 00:08:47,449
 Pause the video now.
 
-94
-00:05:50,914 --> 00:05:56,254
+142
+00:08:47,899 --> 00:08:52,848
 The distance is ten plus six, which is
 sixteen meters. The displacement is ten
 
-95
-00:05:56,254 --> 00:05:58,786
+143
+00:08:52,848 --> 00:08:55,195
 minus six, which is four meters east.
 
-96
-00:05:59,086 --> 00:06:02,393
+144
+00:08:55,496 --> 00:08:58,653
+Now let's work through a complete example,
+step by step.
+
+145
+00:08:59,803 --> 00:09:03,899
+A runner goes around a circular track with
+a radius of fifty meters.
+
+146
+00:09:04,349 --> 00:09:08,744
+Find the distance and displacement after
+half a lap, and after one full lap.
+
+147
+00:09:09,894 --> 00:09:14,481
+Distance is the length of the path. For a
+circle, one lap is the circumference.
+
+148
+00:09:14,931 --> 00:09:19,091
+Displacement is the straight line from
+start to finish, with a direction.
+
+149
+00:09:20,241 --> 00:09:24,849
+Full circumference: two pi times fifty,
+about three hundred fourteen meters.
+
+150
+00:09:25,299 --> 00:09:29,843
+Half a lap: the distance is half of that,
+about one hundred fifty seven meters.
+
+151
+00:09:30,293 --> 00:09:35,288
+After half a lap, the runner is straight
+across the circle. The displacement is the
+
+152
+00:09:35,288 --> 00:09:37,034
+diameter, one hundred meters.
+
+153
+00:09:37,484 --> 00:09:42,339
+After a full lap: the distance is three
+hundred fourteen meters, but the runner is
+
+154
+00:09:42,339 --> 00:09:45,121
+back at the start, so the displacement is
+zero.
+
+155
+00:09:46,271 --> 00:09:51,476
+Half a lap: one hundred fifty seven meters
+of distance, but only one hundred meters
+
+156
+00:09:51,476 --> 00:09:56,618
+of displacement. A full lap: three hundred
+fourteen meters, and zero displacement.
+
+157
+00:09:57,068 --> 00:10:01,906
+Tip: displacement can never be bigger than
+distance. At best they're equal, on a
+
+158
+00:10:01,906 --> 00:10:04,023
+straight path with no turning back.
+
+159
+00:10:04,473 --> 00:10:07,609
+Tip: displacement needs a direction.
+Distance doesn't.
+
+160
+00:10:08,759 --> 00:10:13,960
+Your turn. You walk around three sides of
+a square city block, each side one hundred
+
+161
+00:10:13,960 --> 00:10:16,993
+meters long. Find your distance and
+displacement.
+
+162
+00:10:17,443 --> 00:10:18,638
+Pause the video now.
+
+163
+00:10:19,088 --> 00:10:24,131
+The distance is three hundred meters. You
+end up one corner away from the start, so
+
+164
+00:10:24,131 --> 00:10:27,899
+the displacement is one hundred meters,
+along the fourth side.
+
+165
+00:10:28,198 --> 00:10:31,313
 A car's speedometer reads sixty kilometers
 per hour.
 
-97
-00:06:02,843 --> 00:06:05,061
+166
+00:10:31,763 --> 00:10:33,811
 But is the car heading north, or south?
 
-98
-00:06:05,511 --> 00:06:08,306
+167
+00:10:34,261 --> 00:10:36,885
 Speed and velocity answer different
 questions.
 
-99
-00:06:09,456 --> 00:06:14,320
+168
+00:10:38,035 --> 00:10:42,557
 Average speed is the total distance
 traveled, divided by the time it took.
 
-100
-00:06:14,770 --> 00:06:18,034
+169
+00:10:43,007 --> 00:10:45,887
 A runner covers four hundred meters in
 eighty seconds.
 
-101
-00:06:18,484 --> 00:06:24,052
+170
+00:10:46,337 --> 00:10:51,548
 The runner's average speed is four hundred
 divided by eighty, which is five meters
 
-102
-00:06:24,052 --> 00:06:24,799
+171
+00:10:51,548 --> 00:10:52,247
 per second.
 
-103
-00:06:25,949 --> 00:06:29,853
+172
+00:10:53,397 --> 00:10:57,109
 Average velocity is the displacement,
 divided by the time.
 
-104
-00:06:30,303 --> 00:06:35,783
+173
+00:10:57,559 --> 00:11:02,622
 Because displacement is a vector, velocity
 is a vector too. It has a size, and a
 
-105
-00:06:35,783 --> 00:06:36,468
+174
+00:11:02,622 --> 00:11:03,255
 direction.
 
-106
-00:06:37,618 --> 00:06:41,970
+175
+00:11:04,405 --> 00:11:08,479
 Back to the runner. Those four hundred
 meters were one full lap of the track.
 
-107
-00:06:42,420 --> 00:06:46,217
+176
+00:11:08,929 --> 00:11:12,556
 The runner ends where they started, so the
 displacement is zero.
 
-108
-00:06:46,667 --> 00:06:52,205
+177
+00:11:13,006 --> 00:11:18,224
 That makes the average velocity zero, even
 though the average speed was five meters
 
-109
-00:06:52,205 --> 00:06:52,939
+178
+00:11:18,224 --> 00:11:18,915
 per second.
 
-110
-00:06:54,089 --> 00:06:59,081
+179
+00:11:20,065 --> 00:11:24,797
 Instantaneous speed is how fast you're
 going at a single moment. That's what a
 
-111
-00:06:59,081 --> 00:07:00,233
+180
+00:11:24,797 --> 00:11:25,889
 speedometer shows.
 
-112
-00:07:00,683 --> 00:07:04,139
+181
+00:11:26,339 --> 00:11:29,603
 Add a direction, and you have the
 instantaneous velocity.
 
-113
-00:07:04,589 --> 00:07:09,048
+182
+00:11:30,053 --> 00:11:34,299
 If either the speed or the direction
 changes, the velocity changes.
 
-114
-00:07:10,198 --> 00:07:11,670
+183
+00:11:35,449 --> 00:11:36,814
 Now try one yourself.
 
-115
-00:07:12,120 --> 00:07:17,717
+184
+00:11:37,264 --> 00:11:42,553
 A cyclist rides twelve hundred meters
 north in four minutes. What is the average
 
-116
-00:07:17,717 --> 00:07:19,885
+185
+00:11:42,553 --> 00:11:44,603
 velocity, in meters per second?
 
-117
-00:07:20,335 --> 00:07:21,615
+186
+00:11:45,053 --> 00:11:46,247
 Pause the video now.
 
-118
-00:07:22,065 --> 00:07:27,747
+187
+00:11:46,697 --> 00:11:52,019
 Four minutes is two hundred forty seconds.
 Twelve hundred divided by two hundred
 
-119
-00:07:27,747 --> 00:07:32,860
+188
+00:11:52,019 --> 00:11:56,809
 forty is five. So the average velocity is
 five meters per second, north.
 
-120
-00:07:33,310 --> 00:07:37,939
-Next time, we'll look at how velocity
-changes. That's acceleration.
+189
+00:11:57,110 --> 00:12:00,267
+Now let's work through a complete example,
+step by step.
 
-121
-00:07:39,089 --> 00:07:43,924
+190
+00:12:01,417 --> 00:12:04,489
+A car drives sixty kilometers north in one
+hour.
+
+191
+00:12:04,939 --> 00:12:08,225
+Then it drives thirty kilometers back
+south, in half an hour.
+
+192
+00:12:08,675 --> 00:12:12,493
+Find the average speed and the average
+velocity for the whole trip.
+
+193
+00:12:13,643 --> 00:12:15,905
+Average speed uses the total distance.
+
+194
+00:12:16,355 --> 00:12:18,787
+Average velocity uses the displacement.
+
+195
+00:12:19,937 --> 00:12:23,841
+Total time: one hour plus half an hour,
+one point five hours.
+
+196
+00:12:24,291 --> 00:12:27,661
+Total distance: sixty plus thirty, ninety
+kilometers.
+
+197
+00:12:28,111 --> 00:12:32,485
+Displacement: sixty north minus thirty
+south, thirty kilometers north.
+
+198
+00:12:32,935 --> 00:12:38,033
+Average speed: ninety divided by one point
+five, sixty kilometers per hour.
+
+199
+00:12:38,483 --> 00:12:43,832
+Average velocity: thirty divided by one
+point five, twenty kilometers per hour
+
+200
+00:12:43,832 --> 00:12:44,243
+north.
+
+201
+00:12:45,393 --> 00:12:50,558
+The average speed is sixty kilometers per
+hour, but the average velocity is only
+
+202
+00:12:50,558 --> 00:12:52,753
+twenty kilometers per hour, north.
+
+203
+00:12:53,203 --> 00:12:58,211
+Tip: don't average the two speeds. The
+legs take different times, so sixty and
+
+204
+00:12:58,211 --> 00:12:59,945
+sixty don't simply average.
+
+205
+00:13:00,395 --> 00:13:02,677
+Tip: velocity always needs a direction.
+
+206
+00:13:03,827 --> 00:13:09,118
+Your turn. A swimmer does one length of a
+fifty meter pool and swims back, in eighty
+
+207
+00:13:09,118 --> 00:13:13,086
+seconds total. Find the average speed and
+the average velocity.
+
+208
+00:13:13,536 --> 00:13:14,731
+Pause the video now.
+
+209
+00:13:15,181 --> 00:13:20,604
+The distance is one hundred meters, so the
+average speed is one hundred over eighty,
+
+210
+00:13:20,604 --> 00:13:25,833
+one point two five meters per second. The
+swimmer ends where they started, so the
+
+211
+00:13:25,833 --> 00:13:27,447
+average velocity is zero.
+
+212
+00:13:27,897 --> 00:13:31,887
+Next, in Part 2: acceleration, motion
+graphs, and free fall.
+
+213
+00:13:33,037 --> 00:13:37,736
 If this lesson helped, subscribe to School
-Physics, Explained, and tap the bell so
+STEM, Explained, and tap the bell so you
 
-122
-00:07:43,924 --> 00:07:45,575
-you don't miss the next one.
+214
+00:13:37,736 --> 00:13:39,095
+don't miss the next one.
 
