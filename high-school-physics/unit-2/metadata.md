@@ -1,6 +1,6 @@
 # Upload details: hs_u2
 
-Title: Vectors and Projectile Motion: Full Unit | High School Physics Unit 2
+Title: Vectors, Relative Velocity and Projectile Motion + Worked Examples | High School Physics Unit 2
 Playlists: High School Physics (Full Course); High School Physics, Unit 2: Vectors and 2D Motion
 Visibility: Public
 Audience: Not made for kids
@@ -11,46 +11,73 @@ End screen: Subscribe element on the red circle slot, video element on the Watch
 
 Description (also in description.txt):
 
-The whole of Unit 2 in one video: adding vectors tip to tail, components with sine and cosine, relative velocity (walkways, rivers, wind), horizontal projectiles, and projectiles launched at an angle. Practice problems included.
+The whole of Unit 2 in one video: adding vectors tip to tail, components with sine and cosine, relative velocity (walkways, rivers, wind), horizontal projectiles, and projectiles launched at an angle. Practice problems included. Every lesson is followed by a step-by-step worked example with a work table, common-mistake tips and a practice problem you can pause and try. The video ends with one bigger problem that puts the whole unit together.
 
 Course: High School Physics · Unit 2: Vectors and 2D Motion
 Previous: High School Physics, Unit 1: Measurement and Motion Basics
 Next: High School Physics, Unit 3: Forces and Newton's Laws
 
 0:00 Introduction
-0:25 Adding Vectors with Diagrams
-0:35 What a vector is
-0:54 Tip to tail
-1:09 Pythagorean theorem
+0:29 Adding Vectors with Diagrams
+0:56 Tip to tail
+1:10 Pythagorean theorem
 1:33 Opposite directions
 1:44 Your turn
-2:09 What components are
-2:25 SOH CAH TOA
-2:43 Component formulas
-2:53 Sled example
-3:10 Signs of components
-3:23 Your turn
-3:49 Relative Velocity
-3:59 Relative to the ground
-4:14 Same direction: add
-4:26 Opposite: subtract
-4:37 Upstream and downstream
-4:57 Crossing a river
-5:17 Your turn
-5:39 Projectiles Launched Horizontally
-5:51 Two separate motions
-6:08 The parabola
-6:22 The method
-6:36 Skateboarder example
-7:02 Same fall time
-7:13 Your turn
-7:38 Projectiles Launched at an Angle
-7:49 Split the velocity
-8:04 20 m/s at 30°
-8:25 Up to the peak
-8:42 Down and range
-8:57 Best angle
-9:13 Your turn
+1:58 Worked example: A Three-Leg Hike
+2:14 The plan
+2:25 Work table
+2:48 Result and tips
+3:13 Your turn
+3:32 Vector Components with Sine and Cosine
+3:56 SOH CAH TOA
+4:22 Sled example
+4:39 Signs of components
+4:51 Your turn
+5:14 Worked example: A Drone's Flight
+5:44 Work table
+6:11 Result and tips
+6:34 Your turn
+6:57 Relative Velocity
+7:07 Relative to the ground
+7:21 Same direction: add
+7:33 Opposite: subtract
+7:43 Upstream and downstream
+8:01 Crossing a river
+8:20 Your turn
+8:42 Worked example: Crossing a River
+9:04 The plan
+9:19 Work table
+9:39 Result and tips
+10:00 Your turn
+10:21 Projectiles Launched Horizontally
+10:32 Two separate motions
+10:48 The parabola
+11:01 The method
+11:14 Skateboarder example
+11:39 Same fall time
+11:49 Your turn
+12:13 Worked example: A Ball Off a Cliff
+12:32 The plan
+12:47 Work table
+13:16 Result and tips
+13:35 Your turn
+13:57 Projectiles Launched at an Angle
+14:08 Split the velocity
+14:22 20 m/s at 30°
+14:41 Up to the peak
+14:58 Down and range
+15:12 Best angle
+15:27 Your turn
+15:57 Worked example: A Soccer Kick
+16:19 The plan
+16:35 Work table
+17:04 Result and tips
+17:32 Your turn
+17:56 Putting it together: A Throw from a Moving Cart
+18:31 The plan
+18:53 Work table
+19:48 Result and tips
+20:17 Your turn
 
 High School Physics, the complete course (11 units, full syllabus):
 • Unit 1: Measurement and Motion Basics
@@ -66,5 +93,5 @@ High School Physics, the complete course (11 units, full syllabus):
 • Unit 11: Thermal and Modern Physics
 Follow the whole course in order in the "High School Physics (Full Course)" playlist.
 
-School Physics, Explained covers the full physics syllabus: High School Physics, AP Physics 1, AP Physics 2 and AP Physics C.
+School Physics, Explained is the physics series on the School STEM, Explained channel, which covers full courses in math, physics and computer science. Physics courses: High School Physics, AP Physics 1, AP Physics 2 and AP Physics C.
 #physics #highschoolphysics #vectors
