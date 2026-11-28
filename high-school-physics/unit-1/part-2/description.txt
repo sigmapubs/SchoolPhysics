@@ -1,34 +1,56 @@
-How velocity changes: acceleration, reading position-time and velocity-time graphs, the kinematic equations for constant acceleration, and free fall with g = 9.8 m/s². Practice problems included.
+How velocity changes: acceleration, reading position-time and velocity-time graphs, the kinematic equations for constant acceleration, and free fall with g = 9.8 m/s². Practice problems included. Every lesson is followed by a step-by-step worked example with a work table, common-mistake tips and a practice problem you can pause and try. The video ends with one bigger problem that puts the whole unit together.
 
 Course: High School Physics · Unit 1: Measurement and Motion Basics · Part 2 of 2
 Previous: Units, Significant Figures, Displacement and Velocity (Unit 1, Part 1)
 Next: High School Physics, Unit 2: Vectors and 2D Motion
 
 0:00 Introduction
-0:23 Acceleration
-0:34 Definition and units
-0:46 0 to 20 m/s in 5 s
-1:02 Direction matters
-1:16 Braking: negative acceleration
-1:39 Your turn
-2:01 Motion Graphs: Position-Time and Velocity-Time
-2:13 Slope = velocity
-2:27 Walker: 6 m in 3 s
-2:47 Velocity-time: slope = acceleration
-2:59 Area = displacement
+0:27 Acceleration
+0:38 Definition and units
+0:50 0 to 20 m/s in 5 s
+1:05 Direction matters
+1:18 Braking: negative acceleration
+1:40 Your turn
+2:01 Worked example: Braking to a Stop
+2:27 Work table
+2:46 Result and tips
 3:16 Your turn
-3:43 The Kinematic Equations
-3:54 Five quantities
-4:13 Equation 2: displacement
-4:43 Example: car from rest
-5:07 Your turn
-5:33 Free Fall
-5:46 g = 9.8 m/s²
-5:56 Free fall equations
-6:14 Dropping a stone
-6:30 How far in 3 s?
-6:44 Thrown straight up
-6:59 Your turn
+3:32 Motion Graphs: Position-Time and Velocity-Time
+3:43 Slope = velocity
+3:56 Walker: 6 m in 3 s
+4:15 Velocity-time: slope = acceleration
+4:26 Area = displacement
+4:43 Your turn
+5:07 Worked example: Reading a Three-Part Trip
+5:37 Work table
+6:06 Result and tips
+6:24 Your turn
+6:47 The Kinematic Equations
+6:57 Five quantities
+7:16 Equation 2: displacement
+7:44 Example: car from rest
+8:06 Your turn
+8:31 Worked example: Stopping Distance
+8:46 The plan
+9:02 Work table
+9:24 Result and tips
+9:40 Your turn
+10:02 Free Fall
+10:23 Free fall equations
+10:40 Dropping a stone
+10:55 How far in 3 s?
+11:09 Thrown straight up
+11:23 Your turn
+11:43 Worked example: A Ball Thrown Straight Up
+12:01 The plan
+12:19 Work table
+12:46 Result and tips
+13:05 Your turn
+13:29 Putting it together: A Model Rocket
+13:59 The plan
+14:16 Work table
+15:02 Result and tips
+15:34 Your turn
 
 High School Physics, the complete course (11 units, full syllabus):
 ▶ Unit 1: Measurement and Motion Basics  (you are here)
@@ -44,5 +66,5 @@ High School Physics, the complete course (11 units, full syllabus):
 • Unit 11: Thermal and Modern Physics
 Follow the whole course in order in the "High School Physics (Full Course)" playlist.
 
-School Physics, Explained covers the full physics syllabus: High School Physics, AP Physics 1, AP Physics 2 and AP Physics C.
+School Physics, Explained is the physics series on the School STEM, Explained channel, which covers full courses in math, physics and computer science. Physics courses: High School Physics, AP Physics 1, AP Physics 2 and AP Physics C.
 #physics #highschoolphysics #kinematics
